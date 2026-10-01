@@ -48,8 +48,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
