@@ -37,9 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/0035-search-insert-position) |
 | [0997-find-the-town-judge](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/0997-find-the-town-judge) |
 ## Hash Table
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/0997-find-the-town-judge) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
