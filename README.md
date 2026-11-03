@@ -31,16 +31,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/0657-robot-return-to-origin) |
+| [2109-adding-spaces-to-a-string](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/2109-adding-spaces-to-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/0657-robot-return-to-origin) |
+| [2109-adding-spaces-to-a-string](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/2109-adding-spaces-to-a-string) |
 ## Array
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/0035-search-insert-position) |
 | [0997-find-the-town-judge](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/0997-find-the-town-judge) |
+| [2109-adding-spaces-to-a-string](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/2109-adding-spaces-to-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2109-adding-spaces-to-a-string](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/2109-adding-spaces-to-a-string) |
 ## Sorting
 |  |
 | ------- |
