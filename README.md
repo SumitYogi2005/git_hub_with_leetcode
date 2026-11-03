@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/0035-search-insert-position) |
 | [0997-find-the-town-judge](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/0997-find-the-town-judge) |
 ## Hash Table
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/SumitYogi2005/git_hub_with_leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
